@@ -1,1 +1,1 @@
-# Exercices https://www.coursera.org/learn/machine-learning
+# Exercices course of machine learning - https://www.coursera.org/learn/machine-learning
